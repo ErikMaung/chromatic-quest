@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "fontloader": "^1.2.7",
+    "three": "^0.174.0"
+  },
+  "devDependencies": {
+    "vite": "^6.2.0"
+  }
+}
